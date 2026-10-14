@@ -1,0 +1,17 @@
+
+Bài 2 : Kiểm tra tài liệu trước khi xuất bản
+Phần 1 Chỉ ra 3 lỗi trong đoạn mã trên và chỉ ra tại sao render ko như ý và giải thích tại sao kết quả render ko như ý 
+Lỗi 1 images khong hien thi
+Đường dẫn images/architecture.png không đúng hoặc không tồn tại
+Lỗi 2 Tiêu đề không theo thứ tự
+Sử dung #,##,### không đúng cấp độ và ko theo trình tự rõ ràng
+Lỗi 3 Hiển thị images lộn xộn
+Markdown không chuẩn,xuống dòng và khoảng cách chưa hợp lý.
+Phần 2 Sửa lại đoạn mã hoàn chỉnh
+# Tiêu đề 1 
+## Giới thiệu dự án
+**[Logo PTIT] (https://ptit.edu.vn/logo.png)**
+## Mục tiêu
+- Quản lý sinh viên
+- Quản lý môn học
+
